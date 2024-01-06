@@ -1,0 +1,33 @@
+body{
+    background-color: #24353F;
+}
+
+#mainForm .container h1{
+    color:#17a2b8;
+    font-family: 'Titillium Web', 'sans-serif';
+}
+
+
+.btn-primary{
+    color:#17a2b8;;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+#mainForm p span a:hover{
+    border-bottom: 1px solid #fff;
+}
+
+#mainForm .container{
+    box-shadow: -5px 2px 54px -9px rgb(0,0,0,1);
+    margin-top: 60px;
+    padding: 20px;
+    width: 60%;
+}
+
+#mainForm .container .form-content input::placeholder{
+    color: #fff;
+}
